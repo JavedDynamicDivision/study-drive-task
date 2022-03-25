@@ -1,0 +1,27 @@
+/****************************/
+/** Imports Plugin css **/
+/****************************/
+@import url(../../assets/vendor_components/bootstrap/dist/css/bootstrap.css);
+@import url(../../assets/vendor_components/morris.js/morris.css);
+@import url(../../assets/vendor_components/prism/prism.css);
+@import url(../../assets/vendor_components/datatable/datatables.min.css);
+@import url(../../assets/vendor_components/Magnific-Popup-master/dist/magnific-popup.css);
+@import url(../../assets/vendor_components/gallery/css/animated-masonry-gallery.css);
+@import url(../../assets/vendor_components/lightbox-master/dist/ekko-lightbox.css);
+@import url(../../assets/vendor_components/bootstrap-markdown-master/css/bootstrap-markdown.css);
+@import url(../../assets/vendor_components/select2/dist/css/select2.min.css);
+@import url(../../assets/vendor_components/bootstrap-select/dist/css/bootstrap-select.css);
+@import url(../../assets/vendor_components/raty-master/lib/jquery.raty.css);
+@import url(../../assets/vendor_components/ion-rangeSlider/css/ion.rangeSlider.css);
+@import url(../../assets/vendor_components/ion-rangeSlider/css/ion.rangeSlider.skinModern.css);
+@import url(../../assets/vendor_components/gridstack/gridstack.css);
+@import url(../../assets/vendor_components/nestable/nestable.css);
+@import url(../../assets/vendor_components/c3/c3.min.css);
+@import url(../../assets/vendor_plugins/iCheck/flat/blue.css);
+@import url(../../assets/vendor_plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css);
+@import url(../../assets/vendor_plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css);
+@import url(../../assets/vendor_plugins/iCheck/all.css);
+@import url(../../assets/vendor_plugins/pace/pace.min.css);
+@import url(../../assets/vendor_components/weather-icons/weather-icons.css);
+
+/*# sourceMappingURL=vendors_css.css.map */
