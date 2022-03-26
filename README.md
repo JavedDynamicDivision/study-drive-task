@@ -1,5 +1,10 @@
 StudyDrive Task:
 
+Email:    admin@gmail.com
+Password: Admin100
+
+In Home Page there is Login/Register, You can login to admin panel with above credidential and register as a student you will login also to admin panel but you will see only students related menus.
+
 Students, Course and Registration for Courses Tasks
 
 Installation on Local PC
